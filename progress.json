@@ -246,5 +246,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1769056220.108071,
+    "completed_at": 1769056225.351273,
+    "comments": [
+      "Missing annotated tag \"v1.0\"."
+    ],
+    "status": "Incomplete"
   }
 ]
